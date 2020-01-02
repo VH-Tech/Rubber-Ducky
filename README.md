@@ -14,6 +14,7 @@ This Rubber-Ducky script downloads and executes the payload.ps1 powershell scrip
 
 On the Windows machine:
 Plug in the Rubber-Ducky and enjoy your reverse shell on the host machine!<br>
+![](https://github.com/VH-Tech/Rubber-Ducky/blob/master/victimWin.png)
 <i>**See windows.mkv to see how it works on a victim's computer</i>
 
 Hope You like my work!!
