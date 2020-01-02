@@ -9,8 +9,8 @@ This Rubber-Ducky script downloads and executes the payload.ps1 powershell scrip
 3. Download and modify payload.ps1 by changing the IP address of your host machine and the port you choose earlier.
 4. You now need to host the payload on a web server so it can be downloaded on the Windows computer. There are many ways to do this, but for anyone who wants a quick and easy solution you can host a php web server from the linux terminal like this: sudo php -S 0.0.0.0:80 -t /directory/to/folder/of/powershellScript/
 ![](https://github.com/VH-Tech/Rubber-Ducky/blob/master/php.png)
-5. Download and edit the Reverse_Shell.ino DigiSpark script to change the IP address where the ps1 powershell script is hosted and compile and load Reverse_Shell.ino to your DigiSpark.
-<br><i>**See Linux.mkv to see how it works on linux system</i>
+5. Download and edit the reverse_Shell.ino DigiSpark script to change the IP address where the ps1 powershell script is hosted and compile and load Reverse_Shell.ino to your DigiSpark.
+<br><i>**See linux.mp4 to see how it works on linux system</i>
 
 On the Windows machine:
 Plug in the Rubber-Ducky and enjoy your reverse shell on the host machine!<br>
@@ -18,4 +18,3 @@ Plug in the Rubber-Ducky and enjoy your reverse shell on the host machine!<br>
 
 Hope You like my work!!
 PS: Plz use it responsibly.
-
