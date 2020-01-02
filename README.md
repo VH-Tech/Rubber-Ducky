@@ -1,5 +1,5 @@
 # Rubber-Ducky
-
+(Using DigiSpark)<br>
 This Rubber-Ducky script downloads and executes the payload.ps1 powershell script which essentially opens a netcat reverse shell from a Windows machine to the host computer.
 
 #On the host machine :
